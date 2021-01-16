@@ -60,4 +60,4 @@ async def unban(ctx, *, member):
             return
 
 
-client.run('NzI4OTY0NjQ5NzY4NDUyMTU4.XwDK5w.5qi3-y3KK-NxPrSo5qRgNe5_KdQ')
+client.run('''Enter Discord Token''')
